@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "nameJob": "Quét nhà ",
+      "status": true
+    },
+    {
+      "id": 2,
+      "nameJob": "Quét sân",
+      "status": true
+    },
+    {
+      "id": 3,
+      "nameJob": "Quét ngõ",
+      "status": true
+    },
+    {
+      "id": 4,
+      "nameJob": "Quét xóm",
+      "status": false
+    }
+  ]
+}
